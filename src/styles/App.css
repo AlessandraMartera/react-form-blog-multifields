@@ -1,0 +1,69 @@
+
+header{
+  height: 120px;
+  color: #fff;
+  text-align: center;
+ line-height: 120px;
+  vertical-align: center;
+  background-color: #de2929;
+  background-image: url("christmas-background-with-icons.jpg");
+  background-size: contain;
+}
+
+footer{
+  height: 80px;
+  background-image: url("minimal-footer-banner.jpg");
+  background-size: contain;
+}
+
+main{
+  height: calc(100vh - 200px);
+  overflow: auto;
+  padding: 50px;
+  background-image: url("cute-animal-christmas-background.jpg");
+  background-size: contain;
+}
+
+h1{
+  text-align: center;
+  color: red;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li{
+  margin-bottom: 10px;
+  border-bottom: #555 1px solid;
+}
+
+button{
+  padding: 4px 8px;
+  margin: 0 8px;
+}
+
+
+.addItemsSection{
+  background-color: #fff;
+  width: 70%;
+  margin: 50px auto;
+  padding: 30px 50px;
+  border: #555 2px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px
+}
+
+.articolsList{
+  width: 60%;
+  margin: 15px auto;
+  padding: 30px 50px;
+  border: rgb(91, 152, 0) 4px dashed;
+  background-color: aliceblue;
+}
