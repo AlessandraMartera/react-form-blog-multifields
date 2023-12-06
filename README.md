@@ -1,5 +1,4 @@
-Ampliare l’esercizio precedente aggiungendo:
-- nel form
+Ampliare l’esercizio precedente aggiungendo nel form: 
 - i campi per immagine
 - contenuto
 - categoria (select)
