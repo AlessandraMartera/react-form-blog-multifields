@@ -93,7 +93,6 @@ export default function TheForm() {
     const find = articolsList.find((articol) => articol.id === id);
     // Trova l'articolo da modificare
     setEditingArticol(find);
-    
     destroyArticol(id);
     // Aggiorna lo stato formData con l'articolo da modificare e gli altri articoli
     setFormData({ ...find });

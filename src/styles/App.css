@@ -3,9 +3,8 @@ header{
   height: 120px;
   color: #fff;
   text-align: center;
- line-height: 120px;
+  line-height: 120px;
   vertical-align: center;
-  background-color: #de2929;
   background-image: url("christmas-background-with-icons.jpg");
   background-size: contain;
 }
